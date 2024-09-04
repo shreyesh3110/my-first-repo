@@ -40,3 +40,10 @@ This is a List
 1. Come home (get 3)
 2. After coming home
 3. And this should be the final line.
+
+| P | Q | P and Q |
+| --- | --- | ---: |
+| T | T | T |
+| T | F | F |
+| F | T | F |
+| F | F | F |
